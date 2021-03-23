@@ -1,0 +1,10 @@
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\bin\Debug\netcoreapp3.1\CountUpAndDown.exe
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\bin\Debug\netcoreapp3.1\CountUpAndDown.deps.json
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\bin\Debug\netcoreapp3.1\CountUpAndDown.runtimeconfig.json
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\bin\Debug\netcoreapp3.1\CountUpAndDown.runtimeconfig.dev.json
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\bin\Debug\netcoreapp3.1\CountUpAndDown.dll
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\bin\Debug\netcoreapp3.1\CountUpAndDown.pdb
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\obj\Debug\netcoreapp3.1\CountUpAndDown.AssemblyInfoInputs.cache
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\obj\Debug\netcoreapp3.1\CountUpAndDown.AssemblyInfo.cs
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\obj\Debug\netcoreapp3.1\CountUpAndDown.dll
+C:\PersonalDev\CountUpAndDown\CountUpAndDown\obj\Debug\netcoreapp3.1\CountUpAndDown.pdb
