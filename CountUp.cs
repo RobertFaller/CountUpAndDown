@@ -9,7 +9,7 @@ namespace CountUpAndDown
         public static void Up(int N)
         {
             int i = 1;
-            if (i <= N)
+            if (N >= i)
             {
                 return;
             }
